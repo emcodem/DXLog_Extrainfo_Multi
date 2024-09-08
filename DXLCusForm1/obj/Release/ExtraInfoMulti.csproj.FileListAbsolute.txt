@@ -1,0 +1,10 @@
+C:\dev\DLXCusform\DXLCusForm1\bin\Release\ExtraInfoMulti.dll
+C:\dev\DLXCusform\DXLCusForm1\bin\Release\ExtraInfoMulti.pdb
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\ExtraInfoMulti.csproj.AssemblyReference.cache
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\DXLog.net.ExtraInfoMulti.resources
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\ExtraInfoMulti.csproj.GenerateResource.cache
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\ExtraInfoMulti.csproj.CoreCompileInputs.cache
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\ExtraInfoMulti.dll
+C:\dev\DLXCusform\DXLCusForm1\obj\Release\ExtraInfoMulti.pdb
+C:\Program Files (x86)\DXLog.net\CustomForms\ExtraInfoMulti.dll
+C:\Program Files (x86)\DXLog.net\CustomForms\ExtraInfoMulti.pdb
